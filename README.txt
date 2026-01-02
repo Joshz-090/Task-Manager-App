@@ -38,3 +38,4 @@ OR run from command line:
 ## Notes
 - The "Dark Mode" is a simple custom implementation changing component colors.
 - Dates must be in YYYY-MM-DD format.
+
